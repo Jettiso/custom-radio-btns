@@ -1,2 +1,2 @@
 # custom-radio-btns
-Custom Radio Buttons - HTML/CSS
+Custom Radio Buttons Using - HTML/CSS only
